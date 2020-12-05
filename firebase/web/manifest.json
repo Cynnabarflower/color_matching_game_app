@@ -1,0 +1,11 @@
+{
+    "name": "color_matching_game",
+    "short_name": "color_matching_game",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Color matching game",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
